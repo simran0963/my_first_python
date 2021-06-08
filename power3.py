@@ -1,0 +1,8 @@
+x = input("input first value ")
+y = input("input second value")
+a = input("input third value")
+x = int(x)
+y = int(y)
+a = int(a)
+z = pow(x, y, a)
+print(z)
