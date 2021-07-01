@@ -14,6 +14,4 @@ for j in range(number1, number2):
 	if prime_check(j):
 		print(j) 
 
-#Fibonacci numbers
-
 # print(prime_check(9))
