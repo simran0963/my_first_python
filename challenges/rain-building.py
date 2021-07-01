@@ -1,0 +1,1 @@
+enter_number = int(input("Enter the heights of the buiding and specify the no building blocks using 0"))
